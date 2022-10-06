@@ -1,4 +1,4 @@
-// Insertion Sort Program
+//Insertion Sort Program
 #include<stdio.h>
 int main(){
     int a[5] = {76, 89, 12, 34, 9}, n = 5, i, j, temp;
