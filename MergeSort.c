@@ -1,3 +1,4 @@
+//Merge Sort Program
 #include<stdio.h>
 #define MAX_SIZE 5
 void merge_sort(int, int);
