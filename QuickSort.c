@@ -1,4 +1,4 @@
-// Quick Sort Program
+//Quick Sort Program
 #include<stdio.h>
 int part(int a[], int l, int h){
     int pi = l, i = l, j = h, temp;
